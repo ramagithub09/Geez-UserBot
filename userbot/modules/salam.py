@@ -31,7 +31,7 @@ async def typewriter(typew):
     await typew.edit("`Wa'alaikumussalam wr. wb.`")
 
 
-@register(outgoing=True,pattern='^.ast(?: |$)(.*)')
+@register(outgoing=True,pattern='^.AST(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("'Astagfirullah haladzim...'")
