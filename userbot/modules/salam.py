@@ -49,4 +49,4 @@ CMD_HELP.update({
 \n↳ : Untuk Menjawab Salam.\
 \n\nn𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.ast`\
 \n↳ :istighfar hehhh.\
-})
+
