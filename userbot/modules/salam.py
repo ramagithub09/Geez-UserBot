@@ -47,5 +47,5 @@ CMD_HELP.update({
 \n↳ : Untuk Memberi salam.\
 \n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.L`\
 \n↳ : Untuk Menjawab Salam.\
-\n\nn𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.ast`\
+\n\n𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.ast`\
 \n↳ :istighfar hehhh.\ })
