@@ -30,8 +30,9 @@ async def f_load(message):
         "yellow": 10,
         "white": 11,
         "black": 12,
+        "brown": 13,
     }
-    clr = randint(1, 12)
+    clr = randint(1, 13)
     text = message.pattern_match.group(1)
     reply = await message.get_reply_message()
     if text in clrs:
