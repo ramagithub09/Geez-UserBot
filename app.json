@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/ramagithub09/Rawan2-UserBot",
   "telegram": "https://t.me/Teleghramaa",
-  "success_url": "https://t.me/CariTemanRandom",
+  "success_url": "https://t.me/geezubot",
   "stack": "container",
   "env": {
     "API_KEY": {
