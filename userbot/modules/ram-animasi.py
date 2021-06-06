@@ -13,3 +13,9 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`Dahlah 😭😭sampai sini aja dulu`")
     sleep(1)
+
+
+CMD_HELP.update({
+    "ram-animasi":
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.musik`\
+    \n↳ : Gatau gabut aja huhuu\
