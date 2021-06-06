@@ -15,7 +15,7 @@ async def typewriter(typew):
     sleep(1)
 
 
-CMD_HELP.update({
+CMD_HELP.update
     "ram-animasi":
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.musik`\
-    \n↳ :Usage: Gatau gabut aja huhuu\})
+    \n↳ :Usage: Gatau gabut aja huhuu\
