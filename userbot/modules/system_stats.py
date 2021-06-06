@@ -228,7 +228,7 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f"**⚡𝙂𝙚𝙚𝙯-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡** \n"
+        f"**🥳Rawan2-UserBot🥳** \n"
         f"\n__**{GEEZ_TEKS_KUSTOM}**__\n"
         f"**───────────────────────**\n"
         f"**🤴 GEEZ** \n"
@@ -236,10 +236,10 @@ async def amireallyalive(alive):
         f"**🔎 Username** \n"
         f" ↳ : `@{user.username}` \n"
         f"╭───────────────────────\n"
-        f"├[•⚙️ `Telethon :`Ver {version.__version__} \n"
-        f"├[•🐍 `Python   :`Ver {python_version()} \n"
-        f"├[•👾 `Bot Ver  :`{BOT_VER} \n"
-        f"├[•📂 `Modules  :`{len(modules)} \n"
+        f"├[•🥳 `Telethon :`Ver {version.__version__} \n"
+        f"├[•🥳 `Python   :`Ver {python_version()} \n"
+        f"├[•⚡ `Bot Ver  :`{BOT_VER} \n"
+        f"├[•🗃`Modules  :`{len(modules)} \n"
         f"╰───────────────────────")
     if ALIVE_LOGO:
         try:
@@ -266,16 +266,16 @@ async def amireallyalive(alive):
     await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f"**ㅤㅤㅤㅤ ⚡ＧΞ ΞＺ - ＰＲＯＪＥＣＴ⚡**\n"
+        f"**ㅤㅤㅤㅤ 🥳Rawan2-UserBot🥳**\n"
         f"╔══════════╬════╬══════════╗ \n"
-        f"╟⟩⟩ 🤴 • `ᴏᴡɴᴇʀ    :`[ＧΞ ΞＺ](t.me/VckyouuBitch)             ㅤ ║\n"
+        f"╟⟩⟩ 🤴 • `ᴏᴡɴᴇʀ    :`[Rawan2](t.me/Teleghramaa)             ㅤ ║\n"
         f"╟⟩⟩ 🖥️ • `ꜱʏꜱᴛᴇᴍ.   :`Ubuntu 20.10            ║\n"
         f"╟⟩⟩ ⚙️ • `ᴛᴇʟᴇᴛʜᴏɴ  :`v.{version.__version__}                ㅤㅤ  ║\n"
         f"╟⟩⟩ 🐍 • `ᴘʏᴛʜᴏɴ.   :`v.{python_version()} ㅤㅤㅤㅤ         ║\n"
         f"╟⟩⟩ 👾 • `ʙᴏᴛ      :`v.{BOT_VER}                ㅤㅤㅤ ║\n"
         f"╟⟩⟩ 📂 • `ᴍᴏᴅᴜʟᴇ   :`{len(modules)} ㅤㅤㅤㅤㅤㅤㅤ   ║\n"
         f"╚══════════╬════╬══════════╝ \n"
-        f"🔰 : [𝗥𝗘𝗣𝗢-𝙂𝙚𝙚𝙯](https://github.com/vckyou/Geez-UserBot)\n👥 : [𝗟𝗢𝗥𝗗-𝗧𝗘𝗔𝗠](t.me/LordUserbot_Group)\n👤 : [𝗢𝗪𝗡𝗘𝗥-𝗚𝗥𝗢𝗨𝗣](t.me/liualvinas)\n"
+        f"🔰 : [𝗥𝗘𝗣𝗢-Rawan2](https://github.com/ramagithub09/Rawan2-UserBot)\n👥 : [GEEZ-𝗧𝗘𝗔𝗠](@GeezSupportGroup)\n👤 : [𝗢𝗪𝗡𝗘𝗥-𝗚𝗥𝗢𝗨𝗣](t.me/VckyouuBitch)\n"
     )
     if ALIVE_LOGO:
         try:
