@@ -309,7 +309,7 @@ async def redis(alive):
     await asyncio.sleep(2)
     output = (
         f"╭═──────╼═😭═╾────────\n"
-        f"{      🥳Rawan2"Userbot🥳\n"     }
+        f"{      {Rawan2"Userbot}\n"     }
         f"╰═─────╼══😭══╾────── \n"
         f" ❍ `Name     :` {DEFAULTUSER} \n"
         f" ❍ `Username :` @{user.username} \n"
