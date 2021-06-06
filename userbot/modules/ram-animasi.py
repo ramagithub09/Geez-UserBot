@@ -19,3 +19,4 @@ CMD_HELP.update({
     "ram-animasi":
     "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.musik`\
     \n↳ : Gatau gabut aja huhuu\
+{(
