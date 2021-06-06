@@ -308,9 +308,9 @@ async def redis(alive):
     await alive.edit("⚡")
     await asyncio.sleep(2)
     output = (
-        f"╭═──────╼═⌘═╾────────\n"
-        f"┃⚡ＧΞ ΞＺ - ＰＲＯＪＥＣＴ⚡\n"
-        f"╰═─────╼══⌘══╾────── \n"
+        f"╭═──────╼═😭═╾────────\n"
+        f"{      🥳Rawan2"Userbot🥳\n"     }
+        f"╰═─────╼══😭══╾────── \n"
         f" ❍ `Name     :` {DEFAULTUSER} \n"
         f" ❍ `Username :` @{user.username} \n"
         f" ❍ `Telethon :` Ver {version.__version__} \n"
@@ -318,10 +318,10 @@ async def redis(alive):
         f" ❍ `Branch   :` {UPSTREAM_REPO_BRANCH} \n"
         f" ❍ `Bot Ver  :` {BOT_VER} \n"
         f" ❍ `Modules  :` {len(modules)} Modules \n"
-        f"╭═───────╼⌘╾──────── \n"
-        f"┃[𝗥𝗲𝗽𝗼](https://github.com/Geez-UserBot)  |  [𝗦𝘂𝗽𝗽𝗼𝗿𝘁](t.me/LordUserbot_Group)  |  "
-        f"[𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺](https://Instagram.com/vckyouuu)\n"
-        f"╰═──────╼═⌘═╾────────")
+        f"╭═───────╼😭╾──────── \n"
+        f"┃[𝗥𝗲𝗽𝗼](https://github.com/ramagithub09/Rawan2-UserBot)  |  [𝗦𝘂𝗽𝗽𝗼𝗿𝘁](t.me/GeezSupportGroup)  |  "
+        f"[𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺](https://Instagram.com/ramarama3002)\n"
+        f"╰═──────╼═😭═╾────────")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
