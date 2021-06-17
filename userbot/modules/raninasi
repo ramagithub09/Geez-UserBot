@@ -8,3 +8,8 @@ async def typewriter(typew):
     await typew.edit("`mulai memindai...`")
     sleep(1)
     await typew.edit("`Error 404`")
+
+CMD_HELP.update
+    "ranimasi":
+    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `r`\
+    \n↳ : error.\
