@@ -16,13 +16,13 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^.r(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`🎃.`")
+    await typew.edit("`🎃`")
     sleep(1)
     await typew.edit("`sedang berpikir...`")
     sleep(1)
     await typew.edit("`mulai memindai...`")
     sleep(1)
-    await typew.edit("`Error 403.`")
+    await typew.edit("`Error 403`")
 
 
 @register(outgoing=True, pattern='^.L(?: |$)(.*)')
