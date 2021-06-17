@@ -22,7 +22,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`mulai memindai...`")
     sleep(1)
-    await typew.edit(`Error 403`")
+    await typew.edit("`Error 403.`")
 
 
 @register(outgoing=True, pattern='^.L(?: |$)(.*)')
