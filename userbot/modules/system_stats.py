@@ -266,16 +266,16 @@ async def amireallyalive(alive):
     await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f"**ㅤㅤㅤㅤ 🥳Rawan2-UserBot🥳**\n"
+        f"ㅤㅤㅤㅤ **👀Rawan2-UserBot👀**               \n"
         f"╔══════════╬════╬══════════╗ \n"
-        f"╟⟩⟩ 🤴 • `ᴏᴡɴᴇʀ    :`[Rawan2](t.me/Teleghramaa)             ㅤ ║\n"
-        f"╟⟩⟩ 🖥️ • `ꜱʏꜱᴛᴇᴍ.   :`Ubuntu 20.10            ║\n"
-        f"╟⟩⟩ ⚙️ • `ᴛᴇʟᴇᴛʜᴏɴ  :`v.{version.__version__}                ㅤㅤ  ║\n"
-        f"╟⟩⟩ 🐍 • `ᴘʏᴛʜᴏɴ.   :`v.{python_version()} ㅤㅤㅤㅤ         ║\n"
-        f"╟⟩⟩ 👾 • `ʙᴏᴛ      :`v.{BOT_VER}                ㅤㅤㅤ ║\n"
-        f"╟⟩⟩ 📂 • `ᴍᴏᴅᴜʟᴇ   :`{len(modules)} ㅤㅤㅤㅤㅤㅤㅤ   ║\n"
+        f"╟⟩⟩ 👀 • `ᴏᴡɴᴇʀ    :`[Rawan2](t.me/Teleghramaa)             ㅤ ║\n"
+        f"╟⟩⟩ 👀 • `ꜱʏꜱᴛᴇᴍ.   :`Ubuntu 20.10            ║\n"
+        f"╟⟩⟩ 👀 • `ᴛᴇʟᴇᴛʜᴏɴ  :`v.{version.__version__}                ㅤㅤ  ║\n"
+        f"╟⟩⟩ 👀 • `ᴘʏᴛʜᴏɴ.   :`v.{python_version()} ㅤㅤㅤㅤ         ║\n"
+        f"╟⟩⟩ 👀 • `ʙᴏᴛ      :`v.{BOT_VER}                ㅤㅤㅤ ║\n"
+        f"╟⟩⟩ 👀 • `ᴍᴏᴅᴜʟᴇ   :`{len(modules)} ㅤㅤㅤㅤㅤㅤㅤ   ║\n"
         f"╚══════════╬════╬══════════╝ \n"
-        f"🔰 : [𝗥𝗘𝗣𝗢-Rawan2](https://github.com/ramagithub09/Rawan2-UserBot)\n👥 : [GEEZ-𝗧𝗘𝗔𝗠](@GeezSupportGroup)\n👤 : [𝗢𝗪𝗡𝗘𝗥-𝗚𝗥𝗢𝗨𝗣](t.me/VckyouuBitch)\n"
+        f"👀 : [𝗥𝗘𝗣𝗢-Rawan2](https://github.com/ramagithub09/Rawan2-UserBot)\n👥 : [GEEZ-𝗧𝗘𝗔𝗠](@GeezSupportGroup)\n👤 : [𝗢𝗪𝗡𝗘𝗥-𝗚𝗥𝗢𝗨𝗣](t.me/VckyouuBitch)\n"
     )
     if ALIVE_LOGO:
         try:
@@ -305,23 +305,23 @@ async def redis(alive):
     await alive.edit("__Connecting..__")
     await alive.edit("__Connecting...__")
     await alive.edit("__Connecting....__")
-    await alive.edit("🎃")
+    await alive.edit("👀")
     await asyncio.sleep(2)
     output = (
-        f"╭═──────╼═⚡═╾────────\n"
-        f"|        Rawan2-Userbot\n"     
-        f"╰═─────╼══⚡══╾────── \n"
-        f" ❍ `Name     :` {DEFAULTUSER} \n"
-        f" ❍ `Username :` @{user.username} \n"
-        f" ❍ `Telethon :` Ver {version.__version__} \n"
-        f" ❍ `Python   :` Ver {python_version()} \n"
-        f" ❍ `Branch   :` {UPSTREAM_REPO_BRANCH} \n"
-        f" ❍ `Bot Ver  :` {BOT_VER} \n"
-        f" ❍ `Modules  :` {len(modules)} Modules \n"
-        f"╭═───────╼⚡╾──────── \n"
+        f"╭═──────╼═👀═╾────────\n"
+        f"|        Rawan2-Userbot          \n"     
+        f"╰═─────╼══👀══╾────── \n"
+        f" 👀 `Name     :` {DEFAULTUSER} \n"
+        f" 👀 `Username :` @{user.username} \n"
+        f" 👀 `Telethon :` Ver {version.__version__} \n"
+        f" 👀 `Python   :` Ver {python_version()} \n"
+        f" 👀 `Branch   :` {UPSTREAM_REPO_BRANCH} \n"
+        f" 👀 `Bot Ver  :` {BOT_VER} \n"
+        f" 👀 `Modules  :` {len(modules)} Modules \n"
+        f"╭═───────╼👀╾──────── \n"
         f"┃[𝗥𝗲𝗽𝗼](https://github.com/ramagithub09/Rawan2-UserBot)  |  [𝗦𝘂𝗽𝗽𝗼𝗿𝘁](t.me/GeezSupportGroup)  |  "
         f"[𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺](https://instagram.com/ramarama3002)\n"
-        f"╰═──────╼═⚡═╾────────")
+        f"╰═──────╼═👀═╾────────")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
